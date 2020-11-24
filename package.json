@@ -1,0 +1,25 @@
+{
+  "name": "flexex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaqak/flexex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaqak/flexex/issues"
+  },
+  "homepage": "https://github.com/kaqak/flexex#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "node-sass": "^5.0.0",
+    "sass": "^1.29.0"
+  }
+}
