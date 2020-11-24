@@ -5,6 +5,7 @@
 
 //////////////////////////////////////////////////////////SEARCH/
 .search{
+    background-color: orangered;
     &__input{
 
     }
@@ -22,12 +23,13 @@
 /////////////////////////////////////////////////////////USER NAVIGATION/
 
 .user-nav{
+    background-color: greenyellow;
     &__icon-box{
 
     }
     &__icon{
         width: 2.25rem;
-        width: 2.25rem;
+        height: 2.25rem;
 
     }
     &__notification{
